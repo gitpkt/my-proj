@@ -1,2 +1,3 @@
 # my-proj
-creating a repository
+
+Hi, trying out some go project
